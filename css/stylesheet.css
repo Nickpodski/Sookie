@@ -4,14 +4,17 @@ header {
     background: #634a24;
     color: #ffffff;
     text-align: center;
+    border: solid black 5px;
 }
 
 #Full {
-    width: 100%;
+    width: auto;
     height: auto;
     clear: both;
     overflow: auto;
     background: rgb(151, 151, 151);
+    border: solid black 5px; 
+    border-top: 0px;  
 }
 
 #left {
@@ -24,14 +27,13 @@ header {
 #right {
     float: right;
     width: 40%;
+    padding: 20px;
 }
 
 img {
     max-height: 400px;
     width: auto;
     border: solid black 5px;
-    padding: 20px;
-    
 }
 
 p {
