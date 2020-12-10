@@ -1,0 +1,44 @@
+header {
+    width: auto;
+    padding: 20px;
+    background: #634a24;
+    color: #ffffff;
+    text-align: center;
+}
+
+#Full {
+    width: 100%;
+    height: auto;
+    clear: both;
+    overflow: auto;
+    background: rgb(151, 151, 151);
+}
+
+#left {
+    float: left;
+    width: 50%;
+    background: rgb(151, 151, 151);
+    padding: 20px;
+}
+
+#right {
+    float: right;
+    width: 40%;
+}
+
+img {
+    max-height: 400px;
+    width: auto;
+    border: solid black 5px;
+    padding: 20px;
+    
+}
+
+p {
+    color: white;
+    font-size: 20px;
+    text-indent: 20px;
+}
+
+
+
